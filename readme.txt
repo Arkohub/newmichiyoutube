@@ -10,3 +10,7 @@ python subs2txt.py *.vtt
 
 This will run on all files within this directory. 
 
+
+
+
+The 'introductory MIT playlist' folder is from https://www.youtube.com/c/mitocw/playlists?view=50&sort=dd&shelf_id=1
