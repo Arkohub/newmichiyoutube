@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../VTTtoText/.idea/VTTtoText.iml" filepath="$PROJECT_DIR$/../VTTtoText/.idea/VTTtoText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../reconfiguresubstotext/.idea/reconfiguresubstotext.iml" filepath="$PROJECT_DIR$/../reconfiguresubstotext/.idea/reconfiguresubstotext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web scraper/.idea/web scraper.iml" filepath="$PROJECT_DIR$/../web scraper/.idea/web scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wikilistcondition/.idea/wikilistcondition.iml" filepath="$PROJECT_DIR$/../wikilistcondition/.idea/wikilistcondition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youtubescraper.iml" filepath="$PROJECT_DIR$/.idea/youtubescraper.iml" />
+    </modules>
+  </component>
+</project>
