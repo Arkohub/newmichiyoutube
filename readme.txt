@@ -20,7 +20,7 @@ Cat file.txt: will print out the contents onto terminal.
 Cat file1.txt file2.txt > newfile.txt: Will concatenate the files into the new file name. 
 Cat file1.txt >> file2.txt: will append file2 with file1 (add). 
 And to combine all in the current directory, do this:
-cat ./* > new filename.txt
+cat ./* > new_filename.txt
 
 
 To delete all of a type of file use the following:
